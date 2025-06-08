@@ -15,6 +15,10 @@ header .container {
   gap: 2rem;
 }
 
+#profile > div {
+  max-width: 380px;
+}
+
 #profile > img {
   width: 176px;
   min-width: 176px;

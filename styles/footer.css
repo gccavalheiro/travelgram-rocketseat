@@ -1,5 +1,6 @@
 footer {
   display: flex;
+  font: var(--text-md);
   gap: 1.75rem;
   padding-block: 1.75rem;
 }
