@@ -1,0 +1,9 @@
+footer {
+  display: flex;
+  gap: 1.75rem;
+  padding-block: 1.75rem;
+}
+
+footer span:nth-child(1) {
+  margin-right: auto;
+}
