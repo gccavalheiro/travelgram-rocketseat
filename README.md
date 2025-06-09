@@ -24,7 +24,7 @@
 
 Este é um dos projetos desenvolvidos durante as aulas da **Formação Full-Stack**, dentro dos conteúdos de **especialização**. Ele tem como objetivo reforçar conhecimentos em desenvolvimento de interfaces web, com foco em design responsivo, estruturação de componentes e boas práticas de HTML, CSS.
 
-## 🎯 Objetivos
+## :sparkles: Objetivos
 
 - Criar uma interface de perfil de rede social
 - Simular uma galeria de fotos de viagens
