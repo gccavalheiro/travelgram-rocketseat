@@ -5,10 +5,12 @@ header {
 
 header .container {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   align-items: center;
   gap: 1rem;
 }
+
+
 
 #profile {
   display: flex;
@@ -37,13 +39,28 @@ header .container {
 #profile-info {
   display: flex;
   list-style: none;
-  flex-direction: column;
+  flex-direction: row;
   gap: 1rem;
-  width: 280px;
+  
 }
 
 #profile-info li {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+}
+
+@media (min-width: 992px) {
+  header .container {
+    flex-direction: row;
+    justify-content: space-between;
+    
+  }
+
+  #profile-info {
+    flex-direction: column;
+    width: 280px;
+  }
+
+  
 }
