@@ -15,14 +15,13 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gccavalheiro/travelgram?color=56BEB8"> 
 </p>
 
- 
- 
-
 <br>
 
 ## :dart: Sobre ##
 
 Este é um dos projetos desenvolvidos durante as aulas da **Formação Full-Stack**, dentro dos conteúdos de **especialização**. Ele tem como objetivo reforçar conhecimentos em desenvolvimento de interfaces web, com foco em design responsivo, estruturação de componentes e boas práticas de HTML, CSS.
+
+[Figma](www.figma.com/design/zHlyDAjV3GWDDJX3lw3lmG/Perfil-de-viagens--Community)
 
 ## :sparkles: Objetivos
 
@@ -35,6 +34,7 @@ Este é um dos projetos desenvolvidos durante as aulas da **Formação Full-Stac
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com).
 
+
 ## :checkered_flag: Como Executar ##
 
 ```bash
@@ -45,7 +45,7 @@ $ git clone https://github.com/gccavalheiro/travelgram-rocketseat.git
 $ cd travelgram-rocketseat
 ```
 
-Feito com :heart: by <a href="https://github.com/gccavalheiro" target="_blank">Gabriel Cavalheiro</a>
+Feito com :heart: por <a href="https://github.com/gccavalheiro" target="_blank">Gabriel Cavalheiro</a>
 
 &#xa0;
 
