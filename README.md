@@ -21,7 +21,7 @@
 
 Este é um dos projetos desenvolvidos durante as aulas da **Formação Full-Stack**, dentro dos conteúdos de **especialização**. Ele tem como objetivo reforçar conhecimentos em desenvolvimento de interfaces web, com foco em design responsivo, estruturação de componentes e boas práticas de HTML, CSS.
 
-[Figma](www.figma.com/design/zHlyDAjV3GWDDJX3lw3lmG/Perfil-de-viagens--Community)
+[Figma](https://www.figma.com/design/zHlyDAjV3GWDDJX3lw3lmG/Perfil-de-viagens--Community)
 
 ## :sparkles: Objetivos
 
